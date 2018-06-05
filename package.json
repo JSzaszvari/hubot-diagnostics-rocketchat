@@ -1,7 +1,7 @@
 {
   "name": "hubot-diagnostics-rocketchat",
   "description": "hubot scripts for testing and diagnosing issues with your Rocket.Chat Bot",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "publishConfig": {
     "tag": "next"
   },
