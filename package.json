@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jszaszvari/hubot-diagnostics-v2.git"
+    "url": "https://github.com/jszaszvari/hubot-diagnostics-rocketchat.git"
   },
   "bugs": {
-    "url": "https://github.com/jszaszvari/hubot-diagnostics-v2/issues"
+    "url": "https://github.com/jszaszvari/hubot-diagnostics-rocketchat/issues"
   },
   "engines": {
     "node": "> 4.0.0"
