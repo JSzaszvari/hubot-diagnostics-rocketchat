@@ -1,4 +1,4 @@
-# hubot-diagnostics-rocketchat
+# hubot-rocketchat-diagnostics
 
 hubot scripts for diagnosing your hubot in Rocket.Chat
 
@@ -10,13 +10,13 @@ See [`src/diagnostics.js`](src/diagnostics.js) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-diagnostics-rocketchat --save`
+`npm install hubot-rocketchat-diagnostics --save`
 
-Then add **hubot-diagnostics-rocketchat** to your `external-scripts.json`:
+Then add **hubot-rocketchat-diagnostics** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-diagnostics-rocketchat"
+  "hubot-rocketchat-diagnostics"
 ]
 ```
 
