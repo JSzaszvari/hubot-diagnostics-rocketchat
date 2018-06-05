@@ -1,7 +1,7 @@
 {
   "name": "hubot-diagnostics-rocketchat",
   "description": "hubot scripts for testing and diagnosing issues with your Rocket.Chat Bot",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publishConfig": {
     "tag": "next"
   },
@@ -10,7 +10,10 @@
   "keywords": [
     "hubot",
     "hubot-scripts",
-    "hubot-diagnostics"
+    "hubot-diagnostics",
+    "rocketchat",
+    "rocket-chat",
+    "rocket.chat"
   ],
   "repository": {
     "type": "git",
