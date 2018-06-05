@@ -1,7 +1,7 @@
 {
   "name": "hubot-rocketchat-diagnostics",
   "description": "hubot scripts for testing and diagnosing issues with your Rocket.Chat Bot",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "John Szaszvari <jszaszvari@gmail.com>",
   "license": "MIT",
   "keywords": [
