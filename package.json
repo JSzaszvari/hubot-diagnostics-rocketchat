@@ -1,10 +1,7 @@
 {
-  "name": "hubot-diagnostics-rocketchat",
+  "name": "hubot-rocketchat-diagnostics",
   "description": "hubot scripts for testing and diagnosing issues with your Rocket.Chat Bot",
   "version": "0.0.1",
-  "publishConfig": {
-    "tag": "next"
-  },
   "author": "John Szaszvari <jszaszvari@gmail.com>",
   "license": "MIT",
   "keywords": [
@@ -17,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jszaszvari/hubot-diagnostics-rocketchat.git"
+    "url": "https://github.com/jszaszvari/hubot-rocketchat-diagnostics.git"
   },
   "bugs": {
-    "url": "https://github.com/jszaszvari/hubot-diagnostics-rocketchat/issues"
+    "url": "https://github.com/jszaszvari/hubot-rocketchat-diagnostics/issues"
   },
   "engines": {
     "node": "> 4.0.0"
