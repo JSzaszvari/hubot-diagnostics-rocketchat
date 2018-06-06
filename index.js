@@ -7,5 +7,5 @@ module.exports = (robot) => {
   robot.loadFile(scriptsPath, 'diagnostics.js')
   robot.loadFile(scriptsPath, 'version.js')
   robot.loadFile(scriptsPath, 'example.js')
-
+  robot.loadFile(scriptsPath, 'reload.js')
 }
